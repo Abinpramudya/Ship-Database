@@ -1,0 +1,4 @@
+vessel_type: general cargo
+class: bv
+base: 0
+quota: 100
